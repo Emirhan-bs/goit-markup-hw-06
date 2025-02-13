@@ -916,6 +916,9 @@ a {
     max-width: 320px;
     height: 56px;
   }
+  .close {
+    display: none;
+  }
 
   .all-header {
     margin: 0;
@@ -1157,8 +1160,7 @@ a {
     margin: auto;
     height: 24px;
   }
-  .footer .container .footer-container-media .social-media-icon {
-  }
+
   .container-two {
     margin: auto;
     width: 288px;
